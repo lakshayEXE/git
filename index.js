@@ -10,5 +10,5 @@ function check23Abv (){
 }
 
 function fn1(){
-    console.log("h1");
+    console.log("h4 ");
 }
