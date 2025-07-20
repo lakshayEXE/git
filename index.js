@@ -9,3 +9,11 @@ function fn1(){
     console.log("h4 ");
     console.log('h4');
 } 
+function fn1(){
+    console.log("h4 ");
+    console.log('h4');
+} 
+function fn1(){
+    console.log("h4 ");
+    console.log('h4');
+} 
